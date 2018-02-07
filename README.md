@@ -1,6 +1,6 @@
 # home-energy-manager
 
-This is an interactable high fidelity prototype of an Android based home automation app used for energy monitoring and management. It was made using the JustInMind prototyper for a UI/UX focused Human-Computer Interaction course at Seneca. Use cases involved frequent travellers who might want to control appliances such as lights or pet food dispensers remotely, and tech professionals who might want to compare energy usage of different PC builds. Design goals were based on Jakob Nielsen's usability heuristics for UI design and Don Norman's Design Principles.
+This is an interactable high fidelity prototype of an Android based home automation app used for energy monitoring and management. It was made using the JustInMind prototyper for a UI/UX focused Human-Computer Interaction course. Use cases involved frequent travellers who might want to control appliances such as lights or pet food dispensers remotely, and tech professionals who might want to compare energy usage of different PC builds. Design goals were based on Jakob Nielsen's usability heuristics for UI design and Don Norman's Design Principles.
 
 10 Usability Heuristics for User Interface Design
 
