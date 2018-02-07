@@ -10,6 +10,8 @@ Don Norman's Design Principles
 
 https://www.csun.edu/science/courses/671/bibliography/preece.html
 
+Group Members: Tanvir Sarkar, Michael Overall, Dan Foster, Igor Krasnyanskiy
+
 ## Instructions
 
 1. Download or clone the repo
