@@ -1,6 +1,6 @@
 # home-energy-manager
 
-This is an interactable high fidelity prototype of an Android based home automation app used for energy monitoring and management. It was made using the JustInMind prototyper for a UI/UX focused Human-Computer Interaction course at Seneca. Design goals were based on Jakob Nielsen's usability heuristics for UI design and Don Norman's Design Principles.
+This is an interactable high fidelity prototype of an Android based home automation app used for energy monitoring and management. It was made using the JustInMind prototyper for a UI/UX focused Human-Computer Interaction course at Seneca. Use cases involved frequent travellers who might want to control appliances such as lights or pet food dispensers remotely, and tech professionals who might want to compare energy usage of different PC builds. Design goals were based on Jakob Nielsen's usability heuristics for UI design and Don Norman's Design Principles.
 
 10 Usability Heuristics for User Interface Design
 
@@ -21,14 +21,19 @@ https://www.csun.edu/science/courses/671/bibliography/preece.html
 ![](Screenshots/energy_monitor_ui_home.png)
 
 ### Energy Use Overview
-![](Screenshots/energy_monitor_ui_home.png)
+![](Screenshots/energy_monitor_ui_energy_use.png)
 
-![](Screenshots/energy_monitor_ui_home.png)
+### Appliance Groups Overview
+![](Screenshots/energy_monitor_ui_groups.png)
 
-![](Screenshots/energy_monitor_ui_home.png)
+### Sample Group - Living Room Lights
+![](Screenshots/energy_monitor_ui_lights_group.png)
 
-![](Screenshots/energy_monitor_ui_home.png)
+### Sample Group - Garage
+![](Screenshots/energy_monitor_ui_garage_group.png)
 
-![](Screenshots/energy_monitor_ui_home.png)
+### Setup Automation Schedule for a Group
+![](Screenshots/energy_monitor_ui_garage_schedule.png)
 
-![](Screenshots/energy_monitor_ui_home.png)
+### Change the appliances included in a group
+![](Screenshots/energy_monitor_ui_change_appliance.png)
