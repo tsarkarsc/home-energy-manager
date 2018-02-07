@@ -13,8 +13,22 @@ https://www.csun.edu/science/courses/671/bibliography/preece.html
 ## Instructions
 
 1. Download or clone the repo
-2. Open the index.html (inside the docs folder) in a web browser (Firefox or Chromium recommended)
+2. Open the index.html file (inside the docs folder) in a web browser (Firefox or Chromium recommended)
 
 ## Screenshots
+
+### Home Screen
+![](Screenshots/energy_monitor_ui_home.png)
+
+### Energy Use Overview
+![](Screenshots/energy_monitor_ui_home.png)
+
+![](Screenshots/energy_monitor_ui_home.png)
+
+![](Screenshots/energy_monitor_ui_home.png)
+
+![](Screenshots/energy_monitor_ui_home.png)
+
+![](Screenshots/energy_monitor_ui_home.png)
 
 ![](Screenshots/energy_monitor_ui_home.png)
